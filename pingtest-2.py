@@ -8,6 +8,6 @@ for ip in iplist:
 #    output = os.popen(f"ping{ip}").read()
     status,output = subprocess.getstatusoutput(f"ping -c1 {str(ip)}")
     if  status == 0:
-        print(f"The server {str(ip)} is UP")
+        print(f"{ip} is UP \n")
     else:
-        print(f"The Server {str(ip)} is DOWN")
+        print(f"{ip} is DOWN \n")
