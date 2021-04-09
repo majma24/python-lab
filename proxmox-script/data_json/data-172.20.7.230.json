@@ -1,0 +1,49 @@
+{
+    "data": {
+        "CSRFPreventionToken": "5FABB7EE:dnueu0R1+bAhYw7Kkpm8fdsUT+Y",
+        "cap": {
+            "access": {
+                "Group.Allocate": 1,
+                "User.Modify": 1
+            },
+            "dc": {
+                "Sys.Audit": 1
+            },
+            "nodes": {
+                "Sys.Audit": 1,
+                "Sys.Console": 1,
+                "Sys.Modify": 1,
+                "Sys.PowerMgmt": 1,
+                "Sys.Syslog": 1
+            },
+            "storage": {
+                "Datastore.Allocate": 1,
+                "Datastore.AllocateSpace": 1,
+                "Datastore.AllocateTemplate": 1,
+                "Datastore.Audit": 1,
+                "Permissions.Modify": 1
+            },
+            "vms": {
+                "Permissions.Modify": 1,
+                "VM.Allocate": 1,
+                "VM.Audit": 1,
+                "VM.Backup": 1,
+                "VM.Clone": 1,
+                "VM.Config.CDROM": 1,
+                "VM.Config.CPU": 1,
+                "VM.Config.Disk": 1,
+                "VM.Config.HWType": 1,
+                "VM.Config.Memory": 1,
+                "VM.Config.Network": 1,
+                "VM.Config.Options": 1,
+                "VM.Console": 1,
+                "VM.Migrate": 1,
+                "VM.Monitor": 1,
+                "VM.PowerMgmt": 1,
+                "VM.Snapshot": 1
+            }
+        },
+        "ticket": "PVE:syseng@pam:5FABB7EE::ZxRO0s4CZbxhmbeOoGeFKfqM2HHdjxyVH3uik9jL817eahejbEhPgA509U48IcRd6Nd5YSW+vYrzP1xcX4i4qjn59eyb4OWMTrok6mbc+IX0Z9TFohy3lco27TohNbd9WVqZ6sHT99E5Zq8N/IVz7AHpqPIvNpH6FTbKs3MXAx9rnt9tjVOmU+dKdoz/iEHppcRRQk/Rp/q+HRTPIQE/Cw8i0QQPANl+V0OOhBPkdyIFvhglIo4N6tUaKaZ+22ADz+v0sqhUkL3G7HGvXINX0qwQVolTz7lJCuFgmMDc0J8CcGtPYyGbVqB1p0LOXxH5ibyCdWIB3uApm4FOJR9/7w==",
+        "username": "syseng@pam"
+    }
+}

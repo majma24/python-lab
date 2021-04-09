@@ -1,0 +1,204 @@
+{
+    "data": [
+        {
+            "disk": 31279677440,
+            "id": "storage/msb-10-r2u38-2u4n-a-pve/local-ssd-960GB-1",
+            "maxdisk": 923686084608,
+            "node": "msb-10-r2u38-2u4n-a-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-ssd-960GB-1",
+            "type": "storage"
+        },
+        {
+            "disk": 9455738880,
+            "id": "storage/msb-10-r2u38-2u4n-d-pve/local-ssd-960GB-1",
+            "maxdisk": 923685912576,
+            "node": "msb-10-r2u38-2u4n-d-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-ssd-960GB-1",
+            "type": "storage"
+        },
+        {
+            "disk": 9595043840,
+            "id": "storage/msb-10-r2u38-2u4n-c-pve/local-ssd-960GB-1",
+            "maxdisk": 923685814272,
+            "node": "msb-10-r2u38-2u4n-c-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-ssd-960GB-1",
+            "type": "storage"
+        },
+        {
+            "disk": 9740177408,
+            "id": "storage/msb-10-r2u38-2u4n-b-pve/local-ssd-960GB-1",
+            "maxdisk": 923685961728,
+            "node": "msb-10-r2u38-2u4n-b-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-ssd-960GB-1",
+            "type": "storage"
+        },
+        {
+            "disk": 98304,
+            "id": "storage/msb-10-r2u38-2u4n-a-pve/local-zfs",
+            "maxdisk": 958255742976,
+            "node": "msb-10-r2u38-2u4n-a-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-zfs",
+            "type": "storage"
+        },
+        {
+            "disk": 98304,
+            "id": "storage/msb-10-r2u38-2u4n-d-pve/local-zfs",
+            "maxdisk": 963594760192,
+            "node": "msb-10-r2u38-2u4n-d-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-zfs",
+            "type": "storage"
+        },
+        {
+            "disk": 98304,
+            "id": "storage/msb-10-r2u38-2u4n-c-pve/local-zfs",
+            "maxdisk": 963585712128,
+            "node": "msb-10-r2u38-2u4n-c-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-zfs",
+            "type": "storage"
+        },
+        {
+            "disk": 98304,
+            "id": "storage/msb-10-r2u38-2u4n-b-pve/local-zfs",
+            "maxdisk": 963386327040,
+            "node": "msb-10-r2u38-2u4n-b-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local-zfs",
+            "type": "storage"
+        },
+        {
+            "disk": 69274173440,
+            "id": "storage/msb-10-r2u38-2u4n-a-pve/nfs-iso-1",
+            "maxdisk": 105151201280,
+            "node": "msb-10-r2u38-2u4n-a-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "nfs-iso-1",
+            "type": "storage"
+        },
+        {
+            "disk": 69274173440,
+            "id": "storage/msb-10-r2u38-2u4n-d-pve/nfs-iso-1",
+            "maxdisk": 105151201280,
+            "node": "msb-10-r2u38-2u4n-d-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "nfs-iso-1",
+            "type": "storage"
+        },
+        {
+            "disk": 69274173440,
+            "id": "storage/msb-10-r2u38-2u4n-c-pve/nfs-iso-1",
+            "maxdisk": 105151201280,
+            "node": "msb-10-r2u38-2u4n-c-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "nfs-iso-1",
+            "type": "storage"
+        },
+        {
+            "disk": 69274173440,
+            "id": "storage/msb-10-r2u38-2u4n-b-pve/nfs-iso-1",
+            "maxdisk": 105151201280,
+            "node": "msb-10-r2u38-2u4n-b-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "nfs-iso-1",
+            "type": "storage"
+        },
+        {
+            "disk": 230057990584,
+            "id": "storage/msb-10-r2u38-2u4n-a-pve/rbd-cephmetrocl2-1-ssd",
+            "maxdisk": 12096217962936,
+            "node": "msb-10-r2u38-2u4n-a-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "rbd-cephmetrocl2-1-ssd",
+            "type": "storage"
+        },
+        {
+            "disk": 230057990584,
+            "id": "storage/msb-10-r2u38-2u4n-d-pve/rbd-cephmetrocl2-1-ssd",
+            "maxdisk": 12096217962936,
+            "node": "msb-10-r2u38-2u4n-d-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "rbd-cephmetrocl2-1-ssd",
+            "type": "storage"
+        },
+        {
+            "disk": 230057990584,
+            "id": "storage/msb-10-r2u38-2u4n-c-pve/rbd-cephmetrocl2-1-ssd",
+            "maxdisk": 12096217962936,
+            "node": "msb-10-r2u38-2u4n-c-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "rbd-cephmetrocl2-1-ssd",
+            "type": "storage"
+        },
+        {
+            "disk": 230057990584,
+            "id": "storage/msb-10-r2u38-2u4n-b-pve/rbd-cephmetrocl2-1-ssd",
+            "maxdisk": 12096216914360,
+            "node": "msb-10-r2u38-2u4n-b-pve",
+            "shared": 1,
+            "status": "available",
+            "storage": "rbd-cephmetrocl2-1-ssd",
+            "type": "storage"
+        },
+        {
+            "disk": 7031619584,
+            "id": "storage/msb-10-r2u38-2u4n-a-pve/local",
+            "maxdisk": 965287215104,
+            "node": "msb-10-r2u38-2u4n-a-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local",
+            "type": "storage"
+        },
+        {
+            "disk": 1692401664,
+            "id": "storage/msb-10-r2u38-2u4n-d-pve/local",
+            "maxdisk": 965286952960,
+            "node": "msb-10-r2u38-2u4n-d-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local",
+            "type": "storage"
+        },
+        {
+            "disk": 1701445632,
+            "id": "storage/msb-10-r2u38-2u4n-c-pve/local",
+            "maxdisk": 965286952960,
+            "node": "msb-10-r2u38-2u4n-c-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local",
+            "type": "storage"
+        },
+        {
+            "disk": 1900806144,
+            "id": "storage/msb-10-r2u38-2u4n-b-pve/local",
+            "maxdisk": 965286952960,
+            "node": "msb-10-r2u38-2u4n-b-pve",
+            "shared": 0,
+            "status": "available",
+            "storage": "local",
+            "type": "storage"
+        }
+    ]
+}

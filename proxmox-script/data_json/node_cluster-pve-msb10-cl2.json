@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "cpu": 0.0260850723081686,
+            "disk": 7031619584,
+            "id": "node/msb-10-r2u38-2u4n-a-pve",
+            "level": "",
+            "maxcpu": 32,
+            "maxdisk": 965287215104,
+            "maxmem": 270362988544,
+            "mem": 97589170176,
+            "node": "msb-10-r2u38-2u4n-a-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21970482
+        },
+        {
+            "cpu": 0.0237012969331301,
+            "disk": 1692401664,
+            "id": "node/msb-10-r2u38-2u4n-d-pve",
+            "level": "",
+            "maxcpu": 32,
+            "maxdisk": 965286952960,
+            "maxmem": 270362992640,
+            "mem": 43674529792,
+            "node": "msb-10-r2u38-2u4n-d-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21969125
+        },
+        {
+            "cpu": 0.0232566560622899,
+            "disk": 1701445632,
+            "id": "node/msb-10-r2u38-2u4n-c-pve",
+            "level": "",
+            "maxcpu": 32,
+            "maxdisk": 965286952960,
+            "maxmem": 270362992640,
+            "mem": 45231325184,
+            "node": "msb-10-r2u38-2u4n-c-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21969188
+        },
+        {
+            "cpu": 0.0324290806570927,
+            "disk": 1900806144,
+            "id": "node/msb-10-r2u38-2u4n-b-pve",
+            "level": "",
+            "maxcpu": 32,
+            "maxdisk": 965286952960,
+            "maxmem": 270362992640,
+            "mem": 46081769472,
+            "node": "msb-10-r2u38-2u4n-b-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21969681
+        }
+    ]
+}

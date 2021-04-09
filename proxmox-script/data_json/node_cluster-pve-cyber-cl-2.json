@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "cpu": 0.0814132456541779,
+            "disk": 2235957248,
+            "id": "node/d2r2u4-2u4n-a-pve",
+            "level": "",
+            "maxcpu": 24,
+            "maxdisk": 965287215104,
+            "maxmem": 270364864512,
+            "mem": 108042244096,
+            "node": "d2r2u4-2u4n-a-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21142961
+        },
+        {
+            "cpu": 0.0581809837931198,
+            "disk": 2234908672,
+            "id": "node/d2r2u4-2u4n-b-pve",
+            "level": "",
+            "maxcpu": 24,
+            "maxdisk": 965287084032,
+            "maxmem": 270364868608,
+            "mem": 102163845120,
+            "node": "d2r2u4-2u4n-b-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21142964
+        },
+        {
+            "cpu": 0.0273802813641152,
+            "disk": 2233860096,
+            "id": "node/d2r2u2-2u4n-a-pve",
+            "level": "",
+            "maxcpu": 24,
+            "maxdisk": 965286952960,
+            "maxmem": 270364864512,
+            "mem": 55989334016,
+            "node": "d2r2u2-2u4n-a-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21142967
+        },
+        {
+            "cpu": 0.0576518567475825,
+            "disk": 2252865536,
+            "id": "node/d2r2u2-2u4n-b-pve",
+            "level": "",
+            "maxcpu": 24,
+            "maxdisk": 965286821888,
+            "maxmem": 270364864512,
+            "mem": 109973147648,
+            "node": "d2r2u2-2u4n-b-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 21139655
+        }
+    ]
+}

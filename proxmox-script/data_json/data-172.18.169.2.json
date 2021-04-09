@@ -1,0 +1,53 @@
+{
+    "data": {
+        "CSRFPreventionToken": "5FABB7EA:yb5IjKNeVbqBWTPIWzOzyb0EY7eaV7MaNCAKUb2j9TA",
+        "cap": {
+            "access": {
+                "Group.Allocate": 1,
+                "Permissions.Modify": 1,
+                "User.Modify": 1
+            },
+            "dc": {
+                "Sys.Audit": 1
+            },
+            "nodes": {
+                "Permissions.Modify": 1,
+                "Sys.Audit": 1,
+                "Sys.Console": 1,
+                "Sys.Modify": 1,
+                "Sys.PowerMgmt": 1,
+                "Sys.Syslog": 1
+            },
+            "storage": {
+                "Datastore.Allocate": 1,
+                "Datastore.AllocateSpace": 1,
+                "Datastore.AllocateTemplate": 1,
+                "Datastore.Audit": 1,
+                "Permissions.Modify": 1
+            },
+            "vms": {
+                "Permissions.Modify": 1,
+                "VM.Allocate": 1,
+                "VM.Audit": 1,
+                "VM.Backup": 1,
+                "VM.Clone": 1,
+                "VM.Config.CDROM": 1,
+                "VM.Config.CPU": 1,
+                "VM.Config.Disk": 1,
+                "VM.Config.HWType": 1,
+                "VM.Config.Memory": 1,
+                "VM.Config.Network": 1,
+                "VM.Config.Options": 1,
+                "VM.Console": 1,
+                "VM.Migrate": 1,
+                "VM.Monitor": 1,
+                "VM.PowerMgmt": 1,
+                "VM.Snapshot": 1,
+                "VM.Snapshot.Rollback": 1
+            }
+        },
+        "clustername": "pve-bg1cl14-pro",
+        "ticket": "PVE:syseng@pam:5FABB7EA::f34fxvEbUPQnQ8jzaPj/fp+UhZ+4x7oFxbJ/51U5cv0O+QXF5qULyrC9N0goqoMALh74zNwMGBgdXph79dkh187Bp3diqShLG8ytl9NGZPosTHeeypKi9LjUf8al7I7fnZkuDok0aflC0+eQ+g/vDC3Azur/nNX/Yg+zDF+Q8pWbjIqd2K0+BKkG5EhsoRYf4GlxokpBOQPBYWHM43qCZ3I0v5HuBjVudVP76o0oKOhfUCeVo48zs0xajr30RDrvt4oDlQ3PQDws2RLTgYEmP8MkyK31dBWLzX3b3J3TZ2OY3ADiZ2ozlSTQmrgJ0MVrdV6awtiSUGMpgS2oW7qyBg==",
+        "username": "syseng@pam"
+    }
+}

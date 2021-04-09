@@ -1,0 +1,9 @@
+Hostname	Total-CPU	Total-Memory	Total Disk	CPU Usage (%)	RAM Usage
+bg1-3-r70u2-2u4n-c-pve	32	251G	898G	5.95	154G
+bg1-3-r69u2-2u4n-d-pve	32	251G	898G	0.98	14G
+bg1-3-r69u2-2u4n-c-pve	32	251G	898G	3.02	103G
+bg1-3-r70u2-2u4n-d-pve	32	251G	898G	3.35	109G
+bg1-3-r69u2-2u4n-a-pve	32	251G	898G	4.95	155G
+bg1-3-r70u2-2u4n-a-pve	32	251G	860G	4.26	143G
+bg1-3-r70u2-2u4n-b-pve	32	251G	860G	2.56	130G
+bg1-3-r69u2-2u4n-b-pve	32	251G	898G	3.49	140G

@@ -1,0 +1,60 @@
+{
+    "data": [
+        {
+            "cpu": 0.0622095190579401,
+            "disk": 2309226496,
+            "id": "node/bg1-3-r94u2-2u4n-b-pve",
+            "level": "",
+            "maxcpu": 24,
+            "maxdisk": 965287084032,
+            "maxmem": 270364868608,
+            "mem": 82760740864,
+            "node": "bg1-3-r94u2-2u4n-b-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 18043481
+        },
+        {
+            "cpu": 0.0400505858249003,
+            "disk": 2374631424,
+            "id": "node/bg1-3-r94u4-2u4n-b-pve",
+            "level": "",
+            "maxcpu": 32,
+            "maxdisk": 965286952960,
+            "maxmem": 270362992640,
+            "mem": 114069278720,
+            "node": "bg1-3-r94u4-2u4n-b-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 23166059
+        },
+        {
+            "cpu": 0.0460702223151608,
+            "disk": 2292842496,
+            "id": "node/bg1-3-r94u4-2u4n-a-pve",
+            "level": "",
+            "maxcpu": 32,
+            "maxdisk": 965287084032,
+            "maxmem": 270362992640,
+            "mem": 98362707968,
+            "node": "bg1-3-r94u4-2u4n-a-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 23164942
+        },
+        {
+            "cpu": 0.0242667357732565,
+            "disk": 10894835712,
+            "id": "node/bg1-3-r94u2-2u4n-a-pve",
+            "level": "",
+            "maxcpu": 24,
+            "maxdisk": 965286821888,
+            "maxmem": 270364868608,
+            "mem": 84165844992,
+            "node": "bg1-3-r94u2-2u4n-a-pve",
+            "status": "online",
+            "type": "node",
+            "uptime": 23162677
+        }
+    ]
+}
